@@ -13,4 +13,7 @@ body {
   img {
     display: block;
     width: 300px;
+    }
+  input {
+    display: block;
 }
