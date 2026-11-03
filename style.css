@@ -1,6 +1,9 @@
 body {
-    background-color: lightblue;
+  background-color: yellow;
 }
 h1 {
-    color: darkblue;
+  font-size: 30px;
+}
+p {
+  font-size: 18px;
 }
