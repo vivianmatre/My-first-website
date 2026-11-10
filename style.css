@@ -3,11 +3,14 @@ body {
 }
  h1 {
   font-size: 50px;
+  font-family: Monospace, Arial;
+  
 }
   p {
   font-size: 18px;
+  font-family: Arial, sans-serif; 
 } 
-  div {
+  .main {
     margin-top: 70px;
 } 
   .hovedbilde {
