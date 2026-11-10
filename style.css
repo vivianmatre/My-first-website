@@ -39,7 +39,15 @@ body {
     padding-left: 20px;
     padding-bottom: 20px;
 }
-button {
+.btn-wrapper {
+  display: flex;
+  justify-center: center;
+}
+  
+.btn {
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: 30px;
   color: #0f1419;
   border: 1px solid #cfd9de;
   border-radius: 20px;
