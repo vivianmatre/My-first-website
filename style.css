@@ -4,6 +4,8 @@ body {
  h1 {
   font-size: 50px;
   font-family: Monospace, Arial;
+   display: block;
+   
 }
   p {
   font-size: 18px;
