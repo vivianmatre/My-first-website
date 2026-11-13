@@ -20,14 +20,14 @@ body {
     width: 500px;
     margin-top: 30px;
     display: block;
-    margin: 40 px auto;
+    margin: 40px auto;
    
 }
   .search-input {
     display: block;
-    width: 300px;
-    margin-left: 0px;
     margin-right: 50 px;
+    margin-left: 0px;
+    width: 300px;
 }
   .card {
     color: #222222;
