@@ -33,7 +33,7 @@ body {
     color: #222222;
     background: lightgray;
     width: 300px;
-    margin-top: 50px; auto; bottom: 50px auto;
+    margin: 50px; auto; bottom: 50px auto;
     font-family: Monospace, Arial;
     justify-content: space-around;
 
