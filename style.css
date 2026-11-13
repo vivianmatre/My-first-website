@@ -11,23 +11,23 @@ body {
 }
   p {
   font-size: 18px;
-  font-family: Arial, sans-serif; 
+  font-family: Verdana, Arial, Tahoma; 
 } 
   .main {
     margin-top: 70px;
 } 
   .hovedbilde {
-    width: 200px;
+    width: 500px;
     margin-top: 30px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 40 px auto;
+   
 }
   .search-input {
     display: block;
     width: 300px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0px;
+    margin-right: 50 px;
 }
   .card {
     color: #222222;
