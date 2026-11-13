@@ -25,10 +25,10 @@ body {
   .search-input {
     display: block;
     margin-right: 0 px;
-    margin-left: 50px;
-    width: 400px;
-    border: 1px solid #cfd9de;
-      border-radius: 20px;
+    margin-left: 200px;
+    width: 300px;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
 }
   .card {
     color: #222222;
