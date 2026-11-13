@@ -24,9 +24,11 @@ body {
 }
   .search-input {
     display: block;
-    margin-right: 50 px;
-    margin-left: 0px;
-    width: 300px;
+    margin-right: 0 px;
+    margin-left: 50px;
+    width: 400px;
+    border: 1px solid #cfd9de;
+      border-radius: 20px;
 }
   .card {
     color: #222222;
