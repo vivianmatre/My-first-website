@@ -34,11 +34,13 @@ body {
 }
   .search-input {
     display: block;
-    margin-right: 0 px;
+    margin-right: 0px;
     margin-left: 200px;
-    width: 300px;
+    margin-top: 50px;
+    margin-bottom: 50 px;
+    width: 400px;
     border: 1px solid #ced4da;
-    border-radius: 8px;
+    border-radius: 10px;
 }
   .card {
     color: #222222;
