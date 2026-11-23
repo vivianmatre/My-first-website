@@ -11,7 +11,7 @@ body {
 }
 
   p {
-  font-size: 18px;
+  font-size: 20px;
   font-family: Raleway, Arial, Tahoma;
 } 
 
@@ -47,23 +47,26 @@ body {
   }  
 
   .homepagetext {
-    color:#ebebeb;
-    background: 847577;
-    display: block;
-    margin: 50px auto;
+     color: #ebebeb;
+    background: #847577;
     width: 300px;
+    margin: 50px auto;
+    font-family: Raleway, Arial, Tahoma;
+    justify-content: space-around;
+    border: 4px solid #4e4a47;
+    border-radius: 15px;
+    
     padding-top: 20px;
     padding-right: 20px;
     padding-left: 20px;
     padding-bottom: 20px;
-    font-family: Raleway, Arial, Tahoma;
 }
   .search-input {
     display: block;
     margin: 30px auto;
-    width: 400px;
+    width: 150px;
     height: 100px;
-    border: 5px solid #ced4da;
+    border: 5px solid #2f2f2f;
 }
 
   .card {
