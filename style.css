@@ -90,15 +90,15 @@ body {
 }
 .home-link {
   display: flex;
-  justify-content: center;
+  justify-content: align;
 }
 
 .menu-link {
   display: flex;
-  justify-content: center;
+  justify-content: align;
 }
 
 .about-link {
   display: flex;
-  justify-content: center;
+  justify-content: align;
 }
