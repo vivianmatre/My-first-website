@@ -92,3 +92,13 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.menu-link {
+  display: flex;
+  justify-content: center;
+}
+
+.about-link {
+  display: flex;
+  justify-content: center;
+}
