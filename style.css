@@ -88,3 +88,7 @@ body {
     padding-left: 20px;
     padding-bottom: 20px;
 }
+.home-menu-about {
+  display: flex;
+  justify-content: center;
+}
